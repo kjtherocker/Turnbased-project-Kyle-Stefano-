@@ -422,7 +422,11 @@ MonoBehaviour:
   NodeDown: {fileID: 0}
   NodeLeft: {fileID: 2053430799}
   NodeRight: {fileID: 0}
-  NodeEncounter: 0
+  MaterialBasicNode: {fileID: 2100000, guid: 8464ef08175c2d1478b4c2f5f35c96b2, type: 2}
+  MaterialEncounterNode: {fileID: 2100000, guid: 8b6ebffd77d48664a83340fe21c745fa,
+    type: 2}
+  MaterialStoreNode: {fileID: 2100000, guid: 0a2bd45ea9a52fc4a92e22f32c7c98d4, type: 2}
+  Enum_NodeType: 0
 --- !u!1 &715921685
 GameObject:
   m_ObjectHideFlags: 0
@@ -712,7 +716,11 @@ MonoBehaviour:
   NodeDown: {fileID: 0}
   NodeLeft: {fileID: 1877297530}
   NodeRight: {fileID: 0}
-  NodeEncounter: 1
+  MaterialBasicNode: {fileID: 2100000, guid: 8464ef08175c2d1478b4c2f5f35c96b2, type: 2}
+  MaterialEncounterNode: {fileID: 2100000, guid: 8b6ebffd77d48664a83340fe21c745fa,
+    type: 2}
+  MaterialStoreNode: {fileID: 2100000, guid: 0a2bd45ea9a52fc4a92e22f32c7c98d4, type: 2}
+  Enum_NodeType: 2
 --- !u!1 &1600443762
 GameObject:
   m_ObjectHideFlags: 0
@@ -790,7 +798,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 0a2bd45ea9a52fc4a92e22f32c7c98d4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -845,7 +853,11 @@ MonoBehaviour:
   NodeDown: {fileID: 0}
   NodeLeft: {fileID: 0}
   NodeRight: {fileID: 1877297530}
-  NodeEncounter: 0
+  MaterialBasicNode: {fileID: 2100000, guid: 8464ef08175c2d1478b4c2f5f35c96b2, type: 2}
+  MaterialEncounterNode: {fileID: 2100000, guid: 8b6ebffd77d48664a83340fe21c745fa,
+    type: 2}
+  MaterialStoreNode: {fileID: 2100000, guid: 0a2bd45ea9a52fc4a92e22f32c7c98d4, type: 2}
+  Enum_NodeType: 1
 --- !u!1 &1877297525
 GameObject:
   m_ObjectHideFlags: 0
@@ -947,7 +959,11 @@ MonoBehaviour:
   NodeDown: {fileID: 649428271}
   NodeLeft: {fileID: 1799670178}
   NodeRight: {fileID: 1361581480}
-  NodeEncounter: 0
+  MaterialBasicNode: {fileID: 2100000, guid: 8464ef08175c2d1478b4c2f5f35c96b2, type: 2}
+  MaterialEncounterNode: {fileID: 2100000, guid: 8b6ebffd77d48664a83340fe21c745fa,
+    type: 2}
+  MaterialStoreNode: {fileID: 2100000, guid: 0a2bd45ea9a52fc4a92e22f32c7c98d4, type: 2}
+  Enum_NodeType: 0
 --- !u!1 &1898972062
 GameObject:
   m_ObjectHideFlags: 0
@@ -1115,7 +1131,11 @@ MonoBehaviour:
   NodeDown: {fileID: 0}
   NodeLeft: {fileID: 0}
   NodeRight: {fileID: 649428271}
-  NodeEncounter: 0
+  MaterialBasicNode: {fileID: 2100000, guid: 8464ef08175c2d1478b4c2f5f35c96b2, type: 2}
+  MaterialEncounterNode: {fileID: 2100000, guid: 8b6ebffd77d48664a83340fe21c745fa,
+    type: 2}
+  MaterialStoreNode: {fileID: 2100000, guid: 0a2bd45ea9a52fc4a92e22f32c7c98d4, type: 2}
+  Enum_NodeType: 0
 --- !u!1001 &2123158055
 Prefab:
   m_ObjectHideFlags: 0
