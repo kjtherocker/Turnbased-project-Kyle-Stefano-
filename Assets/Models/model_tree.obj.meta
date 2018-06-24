@@ -35,7 +35,12 @@ ModelImporter:
     4300004: Leaves003
     4300006: Leaves004
     4300008: Tree
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TreeMat
+    second: {fileID: 2100000, guid: e1d75a9042ff953448e9e32f89e3368c, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
