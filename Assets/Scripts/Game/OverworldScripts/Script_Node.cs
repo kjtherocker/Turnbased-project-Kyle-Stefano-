@@ -68,7 +68,7 @@ public class Script_Node : MonoBehaviour {
     {
         if(NodeRight != null)
         {
-            //Instantiate<GameObject>(Road_Overworld,gameObject.transform.SetParent(, false));
+            Instantiate<GameObject>(Road_Overworld,gameObject.transform,true);
         }
 
         RoadsAreSpawned = true;
