@@ -61,16 +61,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CombatScripts\Script_BattleManager.cs" />
     <Compile Include="Assets\Scripts\DialogScripts\Script_Dialogue.cs" />
     <Compile Include="Assets\Scripts\DialogScripts\Script_DialogueManager.cs" />
     <Compile Include="Assets\Scripts\DialogScripts\Script_DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\Game\CombatScripts\Script_BattleManager.cs" />
+    <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_Node.cs" />
+    <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_OverworldCamera.cs" />
+    <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_OverworldManager.cs" />
+    <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_Player.cs" />
+    <Compile Include="Assets\Scripts\Game\Script_GameManager.cs" />
     <Compile Include="Assets\Scripts\MenuScripts\Script_MainMenu.cs" />
     <Compile Include="Assets\Scripts\MenuScripts\Script_Options.cs" />
-    <Compile Include="Assets\Scripts\OverworldScripts\Script_Node.cs" />
-    <Compile Include="Assets\Scripts\OverworldScripts\Script_OverworldCamera.cs" />
-    <Compile Include="Assets\Scripts\OverworldScripts\Script_OverworldManager.cs" />
-    <Compile Include="Assets\Scripts\OverworldScripts\Script_Player.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Stef/Documents/GitHub/Turnbased-project-Kyle-Stefano-/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
@@ -315,6 +316,25 @@
     <Reference Include="Boo.Lang">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.0b9/Editor/Data/MonoBleedingEdge/lib/mono/unity/Boo.Lang.dll</HintPath>
     </Reference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Assets\Scripts\DialogScripts.meta" />
+    <None Include="Assets\Scripts\DialogScripts\Script_Dialogue.cs.meta" />
+    <None Include="Assets\Scripts\DialogScripts\Script_DialogueManager.cs.meta" />
+    <None Include="Assets\Scripts\DialogScripts\Script_DialogueTrigger.cs.meta" />
+    <None Include="Assets\Scripts\Game.meta" />
+    <None Include="Assets\Scripts\Game\CombatScripts.meta" />
+    <None Include="Assets\Scripts\Game\CombatScripts\Script_BattleManager.cs.meta" />
+    <None Include="Assets\Scripts\Game\OverworldScripts.meta" />
+    <None Include="Assets\Scripts\Game\OverworldScripts\Script_Node.cs.meta" />
+    <None Include="Assets\Scripts\Game\OverworldScripts\Script_OverworldCamera.cs.meta" />
+    <None Include="Assets\Scripts\Game\OverworldScripts\Script_OverworldManager.cs.meta" />
+    <None Include="Assets\Scripts\Game\OverworldScripts\Script_Player.cs.meta" />
+    <None Include="Assets\Scripts\Game\Script_GameManager.cs.meta" />
+    <None Include="Assets\Scripts\MenuScripts.meta" />
+    <None Include="Assets\Scripts\MenuScripts\Script_MainMenu.cs.meta" />
+    <None Include="Assets\Scripts\MenuScripts\Script_Options.cs.meta" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
