@@ -64,7 +64,11 @@
     <Compile Include="Assets\Scripts\DialogScripts\Script_Dialogue.cs" />
     <Compile Include="Assets\Scripts\DialogScripts\Script_DialogueManager.cs" />
     <Compile Include="Assets\Scripts\DialogScripts\Script_DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\Game\CombatScripts\Party Classes\Script_MainCharacter.cs" />
     <Compile Include="Assets\Scripts\Game\CombatScripts\Script_BattleManager.cs" />
+    <Compile Include="Assets\Scripts\Game\CombatScripts\Script_HealthBar.cs" />
+    <Compile Include="Assets\Scripts\Game\CombatScripts\Script_PartyManager.cs" />
+    <Compile Include="Assets\Scripts\Game\CombatScripts\Script_PartyMember.cs" />
     <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_Node.cs" />
     <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_OverworldCamera.cs" />
     <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_OverworldManager.cs" />
@@ -316,6 +320,9 @@
     <Reference Include="Boo.Lang">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.0b9/Editor/Data/MonoBleedingEdge/lib/mono/unity/Boo.Lang.dll</HintPath>
     </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Scripts\Game\CombatScripts\Party Classes\Script_MainCharacter.cs.meta" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

@@ -68,8 +68,7 @@ public class Script_Node : MonoBehaviour {
     {
         if(NodeRight != null)
         {
-            Instantiate<GameObject>(Road_Overworld,tru
-                +);
+          //  Instantiate<GameObject>(Road_Overworld,true);
         }
 
         RoadsAreSpawned = true;
