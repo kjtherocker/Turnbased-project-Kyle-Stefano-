@@ -33,6 +33,9 @@ public class Script_HealthBar : MonoBehaviour
         {
             m_CurrentHealth = Partymember.CurrentHealth;
             m_MaxHealth = Partymember.MaxHealth;
+
+            m_CurrentMana = Partymember.CurrentMana;
+            m_MaxMana = Partymember.MaxMana;
         }
         else
         {
