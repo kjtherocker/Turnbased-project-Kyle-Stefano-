@@ -11,7 +11,7 @@ public class Script_HealthBar : MonoBehaviour
     public Image Image_Manahbar;
     public Text Text_ManaRatio;
 
-    public Script_PartyMember Partymember;
+    public Script_Creatures Partymember;
 
     public int m_CurrentHealth = 150;
     private int m_MaxHealth = 150;

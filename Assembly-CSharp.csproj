@@ -64,12 +64,14 @@
     <Compile Include="Assets\Scripts\DialogScripts\Script_Dialogue.cs" />
     <Compile Include="Assets\Scripts\DialogScripts\Script_DialogueManager.cs" />
     <Compile Include="Assets\Scripts\DialogScripts\Script_DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\Game\CombatScripts\Enemys\Forest Enemys\Script_Slime.cs" />
+    <Compile Include="Assets\Scripts\Game\CombatScripts\Enemys\Script_EncounterManager.cs" />
     <Compile Include="Assets\Scripts\Game\CombatScripts\Party Classes\Script_MainCharacter.cs" />
     <Compile Include="Assets\Scripts\Game\CombatScripts\Party Classes\Script_Thief.cs" />
-    <Compile Include="Assets\Scripts\Game\CombatScripts\Script_BattleManager.cs" />
+    <Compile Include="Assets\Scripts\Game\CombatScripts\Script_CombatManager.cs" />
     <Compile Include="Assets\Scripts\Game\CombatScripts\Script_HealthBar.cs" />
     <Compile Include="Assets\Scripts\Game\CombatScripts\Script_PartyManager.cs" />
-    <Compile Include="Assets\Scripts\Game\CombatScripts\Script_PartyMember.cs" />
+    <Compile Include="Assets\Scripts\Game\CombatScripts\Script_Creatures.cs" />
     <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_Node.cs" />
     <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_OverworldCamera.cs" />
     <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_OverworldManager.cs" />
@@ -322,6 +324,7 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.0b9/Editor/Data/MonoBleedingEdge/lib/mono/unity/Boo.Lang.dll</HintPath>
     </Reference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
