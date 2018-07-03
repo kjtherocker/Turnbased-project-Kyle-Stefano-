@@ -6,8 +6,6 @@ public class Script_PartyMember : MonoBehaviour {
 
    public int CurrentHealth;
    public int MaxHealth;
-   public int CurrentMana;
-   public int MaxMana;
    public int Strength;
    public int Magic;
    public int Dexterity;
