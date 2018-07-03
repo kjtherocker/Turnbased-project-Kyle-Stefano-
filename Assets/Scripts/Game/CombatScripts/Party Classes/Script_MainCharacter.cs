@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Script_MainCharacter : Script_Creatures {
+public class Script_MainCharacter : Script_PartyMember {
 
 
-   
 
 	// Use this for initialization
 	void Start ()
@@ -18,12 +17,7 @@ public class Script_MainCharacter : Script_Creatures {
         Magic = 50;
         Dexterity = 50;
         Speed = 50;
-        Name = "MainCharacter";
-
-        charactertype = Charactertype.Ally;
-        elementalStrength = ElementalStrength.Null;
-        elementalWeakness = ElementalWeakness.Shadow;
-
+        Name = "MainChaacter";
     }
 	
 	// Update is called once per frame

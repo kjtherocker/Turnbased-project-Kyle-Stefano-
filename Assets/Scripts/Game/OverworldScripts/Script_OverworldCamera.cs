@@ -2,21 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Script_OverworldCamera : MonoBehaviour
-{
+public class Script_OverworldCamera : MonoBehaviour {
 
-
-    public GameObject player;
-
-    private Vector3 offset;
-
-    void Start()
-    {
-        offset = transform.position - player.transform.position;
-    }
-
-    void LateUpdate()
-    {
-        transform.position = player.transform.position + offset;
-    }
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
 }

@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class Script_PartyManager : MonoBehaviour {
 
-   public Script_Creatures PartyMemberSlot1;
-   public Script_Creatures PartyMemberSlot2;
-   public Script_Creatures PartyMemberSlot3;
-   public Script_Creatures PartyMemberSlot4;
+   public Script_PartyMember PartyMemberSlot1;
+   public Script_PartyMember PartyMemberSlot2;
+   public Script_PartyMember PartyMemberSlot3;
+   public Script_PartyMember PartyMemberSlot4;
 
    public Script_HealthBar BarSlot1;
    public Script_HealthBar BarSlot2;
