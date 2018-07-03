@@ -583,6 +583,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 227142836}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 90.359375, y: 114.890625, z: -18.1875}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -626,6 +627,15 @@ Transform:
   m_Father: {fileID: 1710710136}
   m_RootOrder: 7
 >>>>>>> parent of 37e80d3... Merge branch 'master' of https://github.com/kjtherocker/Turnbased-project-Kyle-Stefano-
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 90.359375, y: 114.890625, z: -18.1875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2004361598}
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+>>>>>>> parent of 34b2343... major changes to combat
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &285431028
 Prefab:
@@ -1003,12 +1013,17 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Father: {fileID: 0}
   m_RootOrder: 4
 =======
   m_Father: {fileID: 1731370750}
   m_RootOrder: 2
 >>>>>>> parent of 37e80d3... Merge branch 'master' of https://github.com/kjtherocker/Turnbased-project-Kyle-Stefano-
+=======
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+>>>>>>> parent of 34b2343... major changes to combat
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &357192698
 GameObject:
@@ -1498,10 +1513,14 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: bfe72fc637f770e4eb4b3b2841e3c51b, type: 2}
   m_IsPrefabAsset: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &610117779
 =======
 --- !u!1 &617680096
 >>>>>>> parent of 37e80d3... Merge branch 'master' of https://github.com/kjtherocker/Turnbased-project-Kyle-Stefano-
+=======
+--- !u!1 &610117779
+>>>>>>> parent of 34b2343... major changes to combat
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1641,10 +1660,14 @@ Transform:
   - {fileID: 566654494}
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 2
 =======
   m_RootOrder: 1
 >>>>>>> parent of 37e80d3... Merge branch 'master' of https://github.com/kjtherocker/Turnbased-project-Kyle-Stefano-
+=======
+  m_RootOrder: 2
+>>>>>>> parent of 34b2343... major changes to combat
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &715058999 stripped
 MonoBehaviour:
@@ -1765,6 +1788,7 @@ Transform:
     type: 2}
   m_PrefabInternal: {fileID: 1983826416}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &744692137
 GameObject:
@@ -1882,6 +1906,8 @@ MeshFilter:
   m_GameObject: {fileID: 789715579}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> parent of 37e80d3... Merge branch 'master' of https://github.com/kjtherocker/Turnbased-project-Kyle-Stefano-
+=======
+>>>>>>> parent of 34b2343... major changes to combat
 --- !u!1001 &849281888
 Prefab:
   m_ObjectHideFlags: 0
@@ -2178,6 +2204,7 @@ Prefab:
   m_SourcePrefab: {fileID: 100100000, guid: bfe72fc637f770e4eb4b3b2841e3c51b, type: 2}
   m_IsPrefabAsset: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &907549608
 GameObject:
@@ -2208,6 +2235,8 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of 37e80d3... Merge branch 'master' of https://github.com/kjtherocker/Turnbased-project-Kyle-Stefano-
+=======
+>>>>>>> parent of 34b2343... major changes to combat
 --- !u!1001 &918372686
 Prefab:
   m_ObjectHideFlags: 0
@@ -2329,12 +2358,17 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Father: {fileID: 0}
   m_RootOrder: 3
 =======
   m_Father: {fileID: 452719365}
   m_RootOrder: 0
 >>>>>>> parent of 37e80d3... Merge branch 'master' of https://github.com/kjtherocker/Turnbased-project-Kyle-Stefano-
+=======
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+>>>>>>> parent of 34b2343... major changes to combat
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1023858580
 Prefab:
@@ -2736,6 +2770,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1204387601
 GameObject:
@@ -2819,6 +2854,8 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of 37e80d3... Merge branch 'master' of https://github.com/kjtherocker/Turnbased-project-Kyle-Stefano-
+=======
+>>>>>>> parent of 34b2343... major changes to combat
 --- !u!1 &1304427178
 GameObject:
   m_ObjectHideFlags: 0
@@ -2849,10 +2886,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 709590191}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 1
 =======
   m_RootOrder: 2
 >>>>>>> parent of 37e80d3... Merge branch 'master' of https://github.com/kjtherocker/Turnbased-project-Kyle-Stefano-
+=======
+  m_RootOrder: 1
+>>>>>>> parent of 34b2343... major changes to combat
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!108 &1304427180
 Light:
@@ -2903,6 +2944,7 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 116936127}
   m_Script: {fileID: 11500000, guid: 93e6a63c62ad44c4ebd39458454103d8, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &1335890961
@@ -3046,6 +3088,8 @@ MeshFilter:
   m_GameObject: {fileID: 1355832829}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> parent of 37e80d3... Merge branch 'master' of https://github.com/kjtherocker/Turnbased-project-Kyle-Stefano-
+=======
+>>>>>>> parent of 34b2343... major changes to combat
 --- !u!224 &1422429130 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 224665590012388722, guid: 91bfcff1c9c825f46972737084f3aaa6,
@@ -3057,6 +3101,7 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 149359379}
   m_Script: {fileID: 11500000, guid: 93e6a63c62ad44c4ebd39458454103d8, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &1438422310
@@ -3104,6 +3149,8 @@ MonoBehaviour:
   EnemySlot3: {fileID: 1335890963}
   EnemySlot4: {fileID: 1335890963}
 >>>>>>> parent of 37e80d3... Merge branch 'master' of https://github.com/kjtherocker/Turnbased-project-Kyle-Stefano-
+=======
+>>>>>>> parent of 34b2343... major changes to combat
 --- !u!4 &1517782913 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4882026978123306, guid: bfe72fc637f770e4eb4b3b2841e3c51b,
