@@ -10,6 +10,6 @@ public class Script_MainMenu : MonoBehaviour
 
     public void Playgame()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
     }
 }

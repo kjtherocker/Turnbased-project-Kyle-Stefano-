@@ -14,15 +14,22 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 45
     width: 2560
     height: 1391
+=======
+    y: 43
+    width: 1920
+    height: 997
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
   m_ShowMode: 4
   m_Title: 
 <<<<<<< HEAD
   m_RootView: {fileID: 6}
 =======
   m_RootView: {fileID: 9}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 34b2343... major changes to combat
@@ -33,6 +40,9 @@ MonoBehaviour:
 =======
   m_MinSize: {x: 950, y: 542}
 >>>>>>> parent of 05b7b7b... Added Thief Class
+=======
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -66,12 +76,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 609
+    x: 860
     y: 0
-    width: 471
-    height: 364
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 665
+    height: 543
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -93,6 +103,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 2041
     y: 0
     width: 519
@@ -104,11 +115,14 @@ MonoBehaviour:
   - {fileID: 14}
 =======
     x: 293
+=======
+    x: 414
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     y: 0
-    width: 787
-    height: 271
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 1111
+    height: 404
+  m_MinSize: {x: 104, y: 121}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -137,6 +151,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 0
     width: 505
     height: 811
@@ -164,6 +179,15 @@ MonoBehaviour:
 =======
   controlID: 95
 >>>>>>> parent of 05b7b7b... Added Thief Class
+=======
+    y: 543
+    width: 1525
+    height: 404
+  m_MinSize: {x: 336, y: 271}
+  m_MaxSize: {x: 14006, y: 10021}
+  vertical: 0
+  controlID: 115
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -199,11 +223,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1360
-    height: 635
-  m_MinSize: {x: 885, y: 492}
-  m_MaxSize: {x: 18002, y: 14042}
+    width: 1920
+    height: 947
+  m_MinSize: {x: 887, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 168
@@ -214,6 +239,9 @@ MonoBehaviour:
 =======
   controlID: 169
 >>>>>>> parent of 05b7b7b... Added Thief Class
+=======
+  controlID: 50
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -238,8 +266,9 @@ MonoBehaviour:
 >>>>>>> parent of 34b2343... major changes to combat
   m_Position:
     serializedVersion: 2
-    x: 1080
+    x: 1525
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     width: 2560
     height: 1391
@@ -250,6 +279,12 @@ MonoBehaviour:
     height: 635
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+    width: 395
+    height: 947
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -277,6 +312,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 2560
     height: 30
   m_MinSize: {x: 0, y: 0}
@@ -287,6 +323,12 @@ MonoBehaviour:
     height: 364
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+    width: 285
+    height: 543
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -316,8 +358,8 @@ MonoBehaviour:
   m_MaxSize: {x: 0, y: 0}
 =======
     y: 0
-    width: 293
-    height: 271
+    width: 414
+    height: 404
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 16}
@@ -353,6 +395,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 2041
     height: 1341
   m_MinSize: {x: 406, y: 492}
@@ -366,6 +409,10 @@ MonoBehaviour:
 =======
     width: 1360
     height: 685
+=======
+    width: 1920
+    height: 997
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &10
@@ -384,7 +431,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1360
+    width: 1920
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -410,8 +457,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 665
-    width: 1360
+    y: 977
+    width: 1920
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -435,6 +482,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 2041
     height: 811
   m_MinSize: {x: 406, y: 221}
@@ -445,10 +493,14 @@ MonoBehaviour:
 =======
     width: 1080
     height: 635
+=======
+    width: 1525
+    height: 947
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
   m_MinSize: {x: 610, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MaxSize: {x: 14006, y: 14042}
   vertical: 1
-  controlID: 10
+  controlID: 51
 --- !u!114 &13
 >>>>>>> parent of 34b2343... major changes to combat
 MonoBehaviour:
@@ -488,12 +540,12 @@ MonoBehaviour:
 =======
     x: 0
     y: 0
-    width: 1080
-    height: 364
+    width: 1525
+    height: 543
   m_MinSize: {x: 610, y: 221}
   m_MaxSize: {x: 12010, y: 4021}
   vertical: 0
-  controlID: 11
+  controlID: 52
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -508,12 +560,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 202
+    x: 285
     y: 0
-    width: 407
-    height: 364
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 575
+    height: 543
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -588,6 +640,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 905
     width: 2039
     height: 509
@@ -595,6 +648,11 @@ MonoBehaviour:
     y: 456
     width: 291
     height: 250
+=======
+    y: 635
+    width: 412
+    height: 383
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
   m_PersistentViewDataDictionary: {fileID: 0}
 >>>>>>> parent of 34b2343... major changes to combat
   m_SearchFilter:
@@ -621,8 +679,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: /Users/danielbrauer/Unity Projects/New Unity Project 20
   m_IsLocked: 0
+=======
+  m_LastProjectPath: C:\Users\Stef\Documents\GitHub\Turnbased-project-Kyle-Stefano-
+  m_LockTracker:
+    m_IsLocked: 0
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
@@ -634,6 +698,7 @@ MonoBehaviour:
     m_LastClickedID: 10804
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000900900003a0a0000ca0a00006a0b0000720b0000960b0000440c0000600c00006e0c0000a00c0000ae0c0000c40c0000fc0c0000060d0000423000004430000046300000483000004a300000
 >>>>>>> parent of 34b2343... major changes to combat
 =======
@@ -642,6 +707,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 0000000088090000a8090000c2090000f6090000ba0a0000860b0000320c00004e0c0000560c00008e0c0000b00c0000f00c0000f4300000f6300000f8300000fa300000fc300000
 >>>>>>> parent of 05b7b7b... Added Thief Class
+=======
+    m_ExpandedIDs: 000000008c090000ac090000c6090000300a0000a80a0000c00a0000600b0000680b0000380c0000520c0000600c0000660c0000940c0000b60c0000f60c00006c0e0000b82f0000ba2f0000bc2f0000be2f0000
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -667,9 +735,10 @@ MonoBehaviour:
     m_SearchString: 
     m_ColumnWidths: []
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 740}
+    scrollPos: {x: 0, y: 420}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -683,6 +752,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: ffffffff00000000880900002a0a0000ba0a00005a0b0000620b0000860b0000320c00004e0c00005c0c00008e0c0000b00c0000f00c0000f4300000f6300000f8300000fa300000fc3000004a4f00005e4f0000
 >>>>>>> parent of 05b7b7b... Added Thief Class
+=======
+    m_ExpandedIDs: ffffffff000000008c090000ac090000c6090000300a0000a80a0000c00a0000600b0000680b0000380c0000520c0000600c0000660c0000940c0000b60c0000f60c00006c0e0000b82f0000ba2f0000bc2f0000be2f0000
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -773,6 +845,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 2043
     y: 94
     width: 517
@@ -787,9 +860,12 @@ MonoBehaviour:
 --- !u!114 &15
 =======
     x: 1082
+=======
+    x: 1527
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     y: 92
-    width: 278
-    height: 614
+    width: 393
+    height: 926
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
@@ -838,11 +914,12 @@ MonoBehaviour:
     m_ExpandedIDs: 00000000
 =======
     y: 92
-    width: 200
-    height: 343
+    width: 283
+    height: 522
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: 740d0000
@@ -859,6 +936,11 @@ MonoBehaviour:
     m_LastClickedID: -394188
     m_ExpandedIDs: b645faffea45faff58fefaffb08cffffc4e0ffff70f4ffffe6fbffff000000003e3100007831000090310000e2310000
 >>>>>>> parent of 05b7b7b... Added Thief Class
+=======
+    m_SelectedIDs: 3e0d0000
+    m_LastClickedID: 3390
+    m_ExpandedIDs: d6fbffff00000000540d0000
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -937,10 +1019,10 @@ MonoBehaviour:
 =======
   m_Pos:
     serializedVersion: 2
-    x: 204
+    x: 287
     y: 92
-    width: 403
-    height: 343
+    width: 571
+    height: 522
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 917.0172580619159
@@ -950,14 +1032,18 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
 =======
     m_Target: {x: 90.359375, y: 114.890625, z: -18.1875}
+=======
+    m_Target: {x: -87.48633, y: 17.742188, z: 39.859375}
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     speed: 2
-    m_Value: {x: 90.359375, y: 114.890625, z: -18.1875}
+    m_Value: {x: -87.48633, y: 17.742188, z: 39.859375}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -982,6 +1068,7 @@ MonoBehaviour:
       m_Value: 0
     yGrid:
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_Target: 1
       speed: 2
       m_Value: 1
@@ -990,11 +1077,17 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
 >>>>>>> parent of 34b2343... major changes to combat
+=======
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
@@ -1009,12 +1102,15 @@ MonoBehaviour:
     m_Value: 0
 =======
     m_Target: {x: -0.08681986, y: 0.041829087, z: -0.0036834348, w: -0.99533874}
+=======
+    m_Target: {x: -0.29690492, y: 0.020050053, z: -0.006251774, w: -0.9547114}
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     speed: 2
-    m_Value: {x: -0.08681986, y: 0.041829087, z: -0.0036834348, w: -0.99533874}
+    m_Value: {x: -0.2968949, y: 0.020049376, z: -0.006251563, w: -0.9546792}
   m_Size:
-    m_Target: 244.56297
+    m_Target: 53.740273
     speed: 2
-    m_Value: 244.56297
+    m_Value: 53.740273
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1071,10 +1167,10 @@ MonoBehaviour:
 =======
   m_Pos:
     serializedVersion: 2
-    x: 611
+    x: 862
     y: 92
-    width: 467
-    height: 343
+    width: 661
+    height: 522
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -1093,11 +1189,18 @@ MonoBehaviour:
 =======
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -233.5
     m_HBaseRangeMax: 233.5
     m_VBaseRangeMin: -163
     m_VBaseRangeMax: 163
 >>>>>>> parent of 34b2343... major changes to combat
+=======
+    m_HBaseRangeMin: -330.5
+    m_HBaseRangeMax: 330.5
+    m_VBaseRangeMin: -252.5
+    m_VBaseRangeMax: 252.5
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1120,6 +1223,7 @@ MonoBehaviour:
       x: 0
       y: 17
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 1532
       height: 773
     m_Scale: {x: 2, y: 2}
@@ -1130,12 +1234,19 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 233.5, y: 163}
 >>>>>>> parent of 34b2343... major changes to combat
+=======
+      width: 661
+      height: 505
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 330.5, y: 252.5}
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       x: -383
       y: -193.25
@@ -1158,11 +1269,17 @@ MonoBehaviour:
       y: -163
       width: 467
       height: 326
+=======
+      x: -330.5
+      y: -252.5
+      width: 661
+      height: 505
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 467, y: 343}
+  m_LastWindowPixelSize: {x: 661, y: 522}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -1201,9 +1318,9 @@ MonoBehaviour:
 =======
   m_Pos:
     serializedVersion: 2
-    x: 295
-    y: 456
-    width: 783
-    height: 250
+    x: 416
+    y: 635
+    width: 1107
+    height: 383
   m_PersistentViewDataDictionary: {fileID: 0}
 >>>>>>> parent of 34b2343... major changes to combat

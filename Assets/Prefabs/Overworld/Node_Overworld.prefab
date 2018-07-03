@@ -37,8 +37,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1934479895017548}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 105}
-  m_LocalScale: {x: 0.71009, y: 0.71009, z: 0.71009}
+  m_LocalPosition: {x: 35, y: 0, z: 70}
+  m_LocalScale: {x: 12.369289, y: 3.09232, z: 12.369289}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -58,7 +58,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 4913186c9c4d67843822e71ba7136b45, type: 2}
+  - {fileID: 2100000, guid: 8464ef08175c2d1478b4c2f5f35c96b2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84,7 +84,7 @@ MeshFilter:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1934479895017548}
-  m_Mesh: {fileID: 4300000, guid: 4fb803dfc1a99af47bf0a53e692445b9, type: 3}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!65 &65441806378669802
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -112,7 +112,7 @@ MonoBehaviour:
   NodeDown: {fileID: 0}
   NodeLeft: {fileID: 0}
   NodeRight: {fileID: 0}
-  MaterialBasicNode: {fileID: 2100000, guid: 4913186c9c4d67843822e71ba7136b45, type: 2}
+  MaterialBasicNode: {fileID: 2100000, guid: 8464ef08175c2d1478b4c2f5f35c96b2, type: 2}
   MaterialEncounterNode: {fileID: 2100000, guid: 8b6ebffd77d48664a83340fe21c745fa,
     type: 2}
   MaterialStoreNode: {fileID: 2100000, guid: 0a2bd45ea9a52fc4a92e22f32c7c98d4, type: 2}

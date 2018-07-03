@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\DialogScripts\Script_Dialogue.cs" />
     <Compile Include="Assets\Scripts\DialogScripts\Script_DialogueManager.cs" />
     <Compile Include="Assets\Scripts\DialogScripts\Script_DialogueTrigger.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Game\CombatScripts\Party Classes\Script_MainCharacter.cs" />
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -90,6 +91,9 @@
     <Compile Include="Assets\Scripts\Game\CombatScripts\Script_PartyManager.cs" />
     <Compile Include="Assets\Scripts\Game\CombatScripts\Script_PartyMember.cs" />
 >>>>>>> parent of 34b2343... major changes to combat
+=======
+    <Compile Include="Assets\Scripts\Game\CombatScripts\Script_BattleManager.cs" />
+>>>>>>> parent of 4459a1c... Healthbar and Party Manager has been created
     <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_Node.cs" />
     <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_OverworldCamera.cs" />
     <Compile Include="Assets\Scripts\Game\OverworldScripts\Script_OverworldManager.cs" />
