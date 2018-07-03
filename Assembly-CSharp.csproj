@@ -66,9 +66,12 @@
     <Compile Include="Assets\Scripts\DialogScripts\Script_DialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\Game\CombatScripts\Party Classes\Script_MainCharacter.cs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Game\CombatScripts\Party Classes\Script_Thief.cs" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 05b7b7b... Added Thief Class
 =======
 >>>>>>> parent of 05b7b7b... Added Thief Class
     <Compile Include="Assets\Scripts\Game\CombatScripts\Script_BattleManager.cs" />
